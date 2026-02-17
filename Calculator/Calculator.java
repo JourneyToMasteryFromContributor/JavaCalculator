@@ -20,21 +20,3 @@ public class Calculator {
         };
     }
 }
-
-// Originally was going to do this but remembered about switch statements so atleast im not as bad as yandere dev
-//    public double addition() {
-//        return firstNumber + secondNumber;  // Learnt that you don't need to assign this to a variable
-//    }
-//
-//    public double subtraction() {
-//        return firstNumber - secondNumber;
-//    }
-//
-//    public double multiply() {
-//        return firstNumber * secondNumber;
-//    }
-//
-//    public double cube() {
-//        ret
-//    }
-//}
