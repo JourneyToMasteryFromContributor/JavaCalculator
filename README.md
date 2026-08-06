@@ -1,1 +1,1 @@
-Simple calculator excercise to understand java syntax.
+Simple calculator exercise to understand Java syntax.
